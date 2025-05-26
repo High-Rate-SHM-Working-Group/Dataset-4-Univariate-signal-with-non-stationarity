@@ -1,4 +1,4 @@
-# Dataset 4 Univariate Signal with Non-stationarity
+# Dataset-4 Univariate Signal with Non-stationarity
 Univariate signal with varying levels of non-stationarities
 
 
@@ -98,7 +98,7 @@ Apr. 2021. [Online]. Available: https://github.com/High-Rate-SHM-Working-Group/D
 @Misc{Chowdhury2021Dataset4Univariate,  
   author = {Puja Chowdhury and Austin Downey and Jason D. Bakos and Philip Conrad},  
   month  = apr,  
-  title  = {Dataset-4-Univariate-signal-with-non-stationarity},  
+  title  = {Dataset-4 Univariate Signal with Non-stationarity},  
   year   = {2021},  
   groups = {High-Rate-SHM-Working-Group},  
   url    = {https://github.com/High-Rate-SHM-Working-Group/Dataset-4-Univariate-signal-with-non-stationarity},  
